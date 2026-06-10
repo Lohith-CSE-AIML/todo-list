@@ -27,6 +27,7 @@ to-do-list/
 │── to_do.html
 │── todoList.css
 │── to_do.js
+│── screenshot_td.png 
 │── README.md
 ```
 
